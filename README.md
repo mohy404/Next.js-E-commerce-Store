@@ -26,7 +26,7 @@ A step-by-step series of examples that tell you how to get a development environ
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+https://github.com/mohy404/Next.js-E-commerce-Store.git
 
 Install dependencies:
 npm install
